@@ -1,5 +1,5 @@
 
-# TeraSmart | Plant with Insight
+# TeraSmart
 
 **NISR Hackathon 2026 | Agricultural Productivity Track**
 
@@ -37,17 +37,6 @@ It supports two user roles: **Farmer** and **Agricultural Planner**.
 TeraSmart uses supervised machine-learning models developed using prepared data derived from the **NISR 2025 Seasonal Agricultural Survey (SAS)**.
 
 The application supports crop-production estimation for 10 crops, subject to the model's supported combinations and input requirements.
-
-Two trained prediction artifacts are included:
-
-| Model File | Purpose |
-|---|---|
-| `data/IhingaAI_Frozen_Model_v1.pkl` | Baseline crop-production prediction model |
-| `data/IhingaAI_Frozen_Extension_v1.pkl` | Extended crop-production prediction model |
-
-These are shared underlying model artifacts adapted for use in TeraSmart. TeraSmart remains a separate application with its own interface, database, and workflows.
-
-Predictions are experimental estimates based on historical agricultural information and are not guaranteed harvest outcomes.
 
 ## 4. Technologies Used
 
