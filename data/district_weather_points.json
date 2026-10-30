@@ -1,0 +1,187 @@
+{
+  "description": "Approximate town/reference points within each district for weather lookup; NOT surveyed district centroids or field GPS coordinates. Confirm accuracy before operational use.",
+  "coordinate_system": "WGS84",
+  "accuracy": "district-level approximate reference, not field-specific",
+  "districts": {
+    "11": {
+      "name": "Nyarugenge",
+      "province_code": "1",
+      "latitude": -1.95,
+      "longitude": 30.06
+    },
+    "12": {
+      "name": "Gasabo",
+      "province_code": "1",
+      "latitude": -1.92,
+      "longitude": 30.115
+    },
+    "13": {
+      "name": "Kicukiro",
+      "province_code": "1",
+      "latitude": -1.99,
+      "longitude": 30.11
+    },
+    "21": {
+      "name": "Nyanza",
+      "province_code": "2",
+      "latitude": -2.355,
+      "longitude": 29.75
+    },
+    "22": {
+      "name": "Gisagara",
+      "province_code": "2",
+      "latitude": -2.61,
+      "longitude": 29.835
+    },
+    "23": {
+      "name": "Nyaruguru",
+      "province_code": "2",
+      "latitude": -2.745,
+      "longitude": 29.615
+    },
+    "24": {
+      "name": "Huye",
+      "province_code": "2",
+      "latitude": -2.595,
+      "longitude": 29.74
+    },
+    "25": {
+      "name": "Nyamagabe",
+      "province_code": "2",
+      "latitude": -2.47,
+      "longitude": 29.5
+    },
+    "26": {
+      "name": "Ruhango",
+      "province_code": "2",
+      "latitude": -2.215,
+      "longitude": 29.79
+    },
+    "27": {
+      "name": "Muhanga",
+      "province_code": "2",
+      "latitude": -2.085,
+      "longitude": 29.76
+    },
+    "28": {
+      "name": "Kamonyi",
+      "province_code": "2",
+      "latitude": -2.005,
+      "longitude": 29.905
+    },
+    "31": {
+      "name": "Karongi",
+      "province_code": "3",
+      "latitude": -2.055,
+      "longitude": 29.35
+    },
+    "32": {
+      "name": "Rutsiro",
+      "province_code": "3",
+      "latitude": -1.905,
+      "longitude": 29.32
+    },
+    "33": {
+      "name": "Rubavu",
+      "province_code": "3",
+      "latitude": -1.68,
+      "longitude": 29.265
+    },
+    "34": {
+      "name": "Nyabihu",
+      "province_code": "3",
+      "latitude": -1.665,
+      "longitude": 29.5
+    },
+    "35": {
+      "name": "Ngororero",
+      "province_code": "3",
+      "latitude": -1.87,
+      "longitude": 29.61
+    },
+    "36": {
+      "name": "Rusizi",
+      "province_code": "3",
+      "latitude": -2.485,
+      "longitude": 28.905
+    },
+    "37": {
+      "name": "Nyamasheke",
+      "province_code": "3",
+      "latitude": -2.345,
+      "longitude": 29.145
+    },
+    "41": {
+      "name": "Rulindo",
+      "province_code": "4",
+      "latitude": -1.75,
+      "longitude": 29.995
+    },
+    "42": {
+      "name": "Gakenke",
+      "province_code": "4",
+      "latitude": -1.71,
+      "longitude": 29.76
+    },
+    "43": {
+      "name": "Musanze",
+      "province_code": "4",
+      "latitude": -1.495,
+      "longitude": 29.63
+    },
+    "44": {
+      "name": "Burera",
+      "province_code": "4",
+      "latitude": -1.445,
+      "longitude": 29.865
+    },
+    "45": {
+      "name": "Gicumbi",
+      "province_code": "4",
+      "latitude": -1.61,
+      "longitude": 30.075
+    },
+    "51": {
+      "name": "Rwamagana",
+      "province_code": "5",
+      "latitude": -1.95,
+      "longitude": 30.435
+    },
+    "52": {
+      "name": "Nyagatare",
+      "province_code": "5",
+      "latitude": -1.29,
+      "longitude": 30.325
+    },
+    "53": {
+      "name": "Gatsibo",
+      "province_code": "5",
+      "latitude": -1.605,
+      "longitude": 30.44
+    },
+    "54": {
+      "name": "Kayonza",
+      "province_code": "5",
+      "latitude": -1.875,
+      "longitude": 30.675
+    },
+    "55": {
+      "name": "Kirehe",
+      "province_code": "5",
+      "latitude": -2.175,
+      "longitude": 30.655
+    },
+    "56": {
+      "name": "Ngoma",
+      "province_code": "5",
+      "latitude": -2.15,
+      "longitude": 30.54
+    },
+    "57": {
+      "name": "Bugesera",
+      "province_code": "5",
+      "latitude": -2.145,
+      "longitude": 30.095
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "version": "v2",
+  "created": "2026-10-20T11:04:51.158007",
+  "status": "verified against SAS 2025 Screening Questionnaire (English), page 4: all 30 codes match",
+  "checks": [],
+  "provinces": {
+    "1": {
+      "en": "Kigali City",
+      "rw": "Umujyi wa Kigali"
+    },
+    "2": {
+      "en": "Southern Province",
+      "rw": "Intara y'Amajyepfo"
+    },
+    "3": {
+      "en": "Western Province",
+      "rw": "Intara y'Iburengerazuba"
+    },
+    "4": {
+      "en": "Northern Province",
+      "rw": "Intara y'Amajyaruguru"
+    },
+    "5": {
+      "en": "Eastern Province",
+      "rw": "Intara y'Iburasirazuba"
+    }
+  },
+  "districts": {
+    "11": {
+      "name": "Nyarugenge",
+      "province_code": "1"
+    },
+    "12": {
+      "name": "Gasabo",
+      "province_code": "1"
+    },
+    "13": {
+      "name": "Kicukiro",
+      "province_code": "1"
+    },
+    "21": {
+      "name": "Nyanza",
+      "province_code": "2"
+    },
+    "22": {
+      "name": "Gisagara",
+      "province_code": "2"
+    },
+    "23": {
+      "name": "Nyaruguru",
+      "province_code": "2"
+    },
+    "24": {
+      "name": "Huye",
+      "province_code": "2"
+    },
+    "25": {
+      "name": "Nyamagabe",
+      "province_code": "2"
+    },
+    "26": {
+      "name": "Ruhango",
+      "province_code": "2"
+    },
+    "27": {
+      "name": "Muhanga",
+      "province_code": "2"
+    },
+    "28": {
+      "name": "Kamonyi",
+      "province_code": "2"
+    },
+    "31": {
+      "name": "Karongi",
+      "province_code": "3"
+    },
+    "32": {
+      "name": "Rutsiro",
+      "province_code": "3"
+    },
+    "33": {
+      "name": "Rubavu",
+      "province_code": "3"
+    },
+    "34": {
+      "name": "Nyabihu",
+      "province_code": "3"
+    },
+    "35": {
+      "name": "Ngororero",
+      "province_code": "3"
+    },
+    "36": {
+      "name": "Rusizi",
+      "province_code": "3"
+    },
+    "37": {
+      "name": "Nyamasheke",
+      "province_code": "3"
+    },
+    "41": {
+      "name": "Rulindo",
+      "province_code": "4"
+    },
+    "42": {
+      "name": "Gakenke",
+      "province_code": "4"
+    },
+    "43": {
+      "name": "Musanze",
+      "province_code": "4"
+    },
+    "44": {
+      "name": "Burera",
+      "province_code": "4"
+    },
+    "45": {
+      "name": "Gicumbi",
+      "province_code": "4"
+    },
+    "51": {
+      "name": "Rwamagana",
+      "province_code": "5"
+    },
+    "52": {
+      "name": "Nyagatare",
+      "province_code": "5"
+    },
+    "53": {
+      "name": "Gatsibo",
+      "province_code": "5"
+    },
+    "54": {
+      "name": "Kayonza",
+      "province_code": "5"
+    },
+    "55": {
+      "name": "Kirehe",
+      "province_code": "5"
+    },
+    "56": {
+      "name": "Ngoma",
+      "province_code": "5"
+    },
+    "57": {
+      "name": "Bugesera",
+      "province_code": "5"
+    }
+  },
+  "note": "District names are identical in English and Kinyarwanda.",
+  "verified_on": "2026-10-20T11:10:02.718051",
+  "province_source": "Screening Questionnaire Q1.1: 1=Kigali city, 2=South, 3=West, 4=North, 5=East"
+}

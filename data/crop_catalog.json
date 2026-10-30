@@ -1,0 +1,268 @@
+{
+  "101": {
+    "model": "v1",
+    "perennial": false,
+    "harvest_question": false,
+    "seasons": {
+      "A": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 24.7,
+        "tested_coverage_pct": 79.0,
+        "coverage_in_10": 8
+      },
+      "B": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 20.3,
+        "tested_coverage_pct": 84.9,
+        "coverage_in_10": 8
+      }
+    }
+  },
+  "106": {
+    "model": "v1",
+    "perennial": false,
+    "harvest_question": false,
+    "seasons": {
+      "A": {
+        "evidence": "limited",
+        "validation_MAE_gain_pct": 19.8,
+        "tested_coverage_pct": 78.7,
+        "coverage_in_10": 8
+      },
+      "B": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 24.6,
+        "tested_coverage_pct": 84.2,
+        "coverage_in_10": 8
+      },
+      "C": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 35.0,
+        "tested_coverage_pct": 87.2,
+        "coverage_in_10": 9
+      }
+    }
+  },
+  "110": {
+    "model": "v1",
+    "perennial": false,
+    "harvest_question": false,
+    "seasons": {
+      "A": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 51.1,
+        "tested_coverage_pct": 81.3,
+        "coverage_in_10": 8
+      },
+      "B": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 34.2,
+        "tested_coverage_pct": 77.9,
+        "coverage_in_10": 8
+      },
+      "C": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 48.5,
+        "tested_coverage_pct": 100.0,
+        "coverage_in_10": 9
+      }
+    }
+  },
+  "103": {
+    "model": "extension",
+    "perennial": false,
+    "harvest_question": false,
+    "seasons": {
+      "A": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 33.8,
+        "tested_coverage_pct": 62.8,
+        "coverage_in_10": 6
+      },
+      "B": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 34.1,
+        "tested_coverage_pct": 80.7,
+        "coverage_in_10": 8
+      }
+    }
+  },
+  "107": {
+    "model": "extension",
+    "perennial": false,
+    "harvest_question": false,
+    "seasons": {
+      "A": {
+        "evidence": "limited",
+        "validation_MAE_gain_pct": 14.7,
+        "tested_coverage_pct": 80.8,
+        "coverage_in_10": 8
+      },
+      "B": {
+        "evidence": "limited",
+        "validation_MAE_gain_pct": 19.7,
+        "tested_coverage_pct": 84.3,
+        "coverage_in_10": 8
+      }
+    }
+  },
+  "108": {
+    "model": "extension",
+    "perennial": false,
+    "harvest_question": false,
+    "seasons": {
+      "A": {
+        "evidence": "limited",
+        "validation_MAE_gain_pct": 10.1,
+        "tested_coverage_pct": 79.7,
+        "coverage_in_10": 8
+      }
+    }
+  },
+  "111": {
+    "model": "extension",
+    "perennial": false,
+    "harvest_question": true,
+    "seasons": {
+      "A": {
+        "evidence": "limited",
+        "validation_MAE_gain_pct": 11.3,
+        "tested_coverage_pct": 83.4,
+        "coverage_in_10": 8
+      },
+      "B": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 23.5,
+        "tested_coverage_pct": 86.1,
+        "coverage_in_10": 9
+      },
+      "C": {
+        "evidence": "limited",
+        "validation_MAE_gain_pct": 18.9,
+        "tested_coverage_pct": 84.6,
+        "coverage_in_10": 8
+      }
+    }
+  },
+  "122": {
+    "model": "extension",
+    "perennial": false,
+    "harvest_question": false,
+    "seasons": {
+      "A": {
+        "evidence": "limited",
+        "validation_MAE_gain_pct": 14.4,
+        "tested_coverage_pct": 85.1,
+        "coverage_in_10": 9
+      },
+      "B": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 39.0,
+        "tested_coverage_pct": 74.2,
+        "coverage_in_10": 7
+      }
+    }
+  },
+  "123": {
+    "model": "extension",
+    "perennial": false,
+    "harvest_question": false,
+    "seasons": {
+      "A": {
+        "evidence": "limited",
+        "validation_MAE_gain_pct": 11.4,
+        "tested_coverage_pct": 82.9,
+        "coverage_in_10": 8
+      },
+      "B": {
+        "evidence": "limited",
+        "validation_MAE_gain_pct": 26.7,
+        "tested_coverage_pct": 75.0,
+        "coverage_in_10": 8
+      }
+    }
+  },
+  "301": {
+    "model": "extension",
+    "perennial": true,
+    "harvest_question": false,
+    "seasons": {
+      "A": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 23.8,
+        "tested_coverage_pct": 81.3,
+        "coverage_in_10": 8
+      },
+      "B": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 26.4,
+        "tested_coverage_pct": 77.6,
+        "coverage_in_10": 8
+      }
+    }
+  },
+  "302": {
+    "model": "extension",
+    "perennial": true,
+    "harvest_question": false,
+    "seasons": {
+      "B": {
+        "evidence": "limited",
+        "validation_MAE_gain_pct": 7.7,
+        "tested_coverage_pct": 76.3,
+        "coverage_in_10": 8
+      }
+    }
+  },
+  "303": {
+    "model": "extension",
+    "perennial": true,
+    "harvest_question": false,
+    "seasons": {
+      "A": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 30.6,
+        "tested_coverage_pct": 82.8,
+        "coverage_in_10": 8
+      },
+      "B": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 25.3,
+        "tested_coverage_pct": 77.2,
+        "coverage_in_10": 8
+      }
+    }
+  },
+  "304": {
+    "model": "extension",
+    "perennial": true,
+    "harvest_question": false,
+    "seasons": {
+      "B": {
+        "evidence": "limited",
+        "validation_MAE_gain_pct": 14.1,
+        "tested_coverage_pct": 80.1,
+        "coverage_in_10": 8
+      }
+    }
+  },
+  "305": {
+    "model": "extension",
+    "perennial": true,
+    "harvest_question": true,
+    "seasons": {
+      "A": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 61.1,
+        "tested_coverage_pct": 78.8,
+        "coverage_in_10": 8
+      },
+      "B": {
+        "evidence": "stronger",
+        "validation_MAE_gain_pct": 50.4,
+        "tested_coverage_pct": 78.9,
+        "coverage_in_10": 8
+      }
+    }
+  }
+}
